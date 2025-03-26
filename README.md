@@ -5,7 +5,7 @@ A Langium-based implementation of REXX with basic syntax highlighting support. C
 
 ## Running the Extension
 - `npm install`
-- Press F5 to launch the extension
+- In Visual Studio Code, press F5 to launch the extension
 
 ## Modifying the Grammar
 - Make changes to [rexx.langium](https://github.com/Jasspie/langium-rexx/blob/main/src/language/rexx.langium)
