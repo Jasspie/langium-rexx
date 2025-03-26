@@ -1,0 +1,15 @@
+{
+    "projectName": "Rexx",
+    "languages": [{
+        "id": "rexx",
+        "grammar": "src/language/rexx.langium",
+        "fileExtensions": [".rexx"],
+        "textMate": {
+            "out": "syntaxes/rexx.tmLanguage.json"
+        },
+        "monarch": {
+            "out": "src/syntaxes/rexx.monarch.ts"
+        }
+    }],
+    "out": "src/language/generated"
+}
